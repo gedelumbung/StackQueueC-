@@ -1,0 +1,14 @@
+C:\Documents and Settings\Gede Lumbung\My Documents\SharpDevelop Projects\stack_form\stack_form\bin\Debug\stack_form.exe
+C:\Documents and Settings\Gede Lumbung\My Documents\SharpDevelop Projects\stack_form\stack_form\bin\Debug\stack_form.pdb
+C:\Documents and Settings\Gede Lumbung\My Documents\SharpDevelop Projects\stack_form\stack_form\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gede Lumbung\My Documents\SharpDevelop Projects\stack_form\stack_form\obj\Debug\stack_form.MainForm.resources
+C:\Documents and Settings\Gede Lumbung\My Documents\SharpDevelop Projects\stack_form\stack_form\obj\Debug\stack_form.csproj.GenerateResource.Cache
+C:\Documents and Settings\Gede Lumbung\My Documents\SharpDevelop Projects\stack_form\stack_form\obj\Debug\stack_form.exe
+C:\Documents and Settings\Gede Lumbung\My Documents\SharpDevelop Projects\stack_form\stack_form\obj\Debug\stack_form.pdb
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\stack_form\stack_form\bin\Debug\stack_form.exe
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\stack_form\stack_form\bin\Debug\stack_form.pdb
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\stack_form\stack_form\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\stack_form\stack_form\obj\Debug\stack_form.MainForm.resources
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\stack_form\stack_form\obj\Debug\stack_form.csproj.GenerateResource.Cache
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\stack_form\stack_form\obj\Debug\stack_form.exe
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\stack_form\stack_form\obj\Debug\stack_form.pdb
